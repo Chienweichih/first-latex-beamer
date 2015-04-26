@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.4.24)  26 APR 2015 11:15
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.4.24)  26 APR 2015 22:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -903,20 +903,20 @@ LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <4> not available
  [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
-LaTeX Font Info:    Try loading font information for U+msa on input line 57.
+LaTeX Font Info:    Try loading font information for U+msa on input line 56.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 57.
+LaTeX Font Info:    Try loading font information for U+msb on input line 56.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <6> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 57.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 56.
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <5> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 57.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 56.
  [2
 
 ] (./copyset.toc
@@ -927,7 +927,7 @@ LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <8> not available
 
 ]
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <9> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 79.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 77.
  [4
 
 ] [5
@@ -936,43 +936,43 @@ LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <9> not available
 
 ]
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10.95> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 124.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 120.
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <8> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 124.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 120.
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <24.88> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 124.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 120.
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <20.74> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 124.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 120.
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <17.28> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 124.
-LaTeX Font Info:    Try loading font information for OMS+phv on input line 124.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 120.
+LaTeX Font Info:    Try loading font information for OMS+phv on input line 120.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsphv.fd
 File: omsphv.fd 
 )
 LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 124.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 120.
  [7
 
 ]
 <fig/1.png, id=336, 311.66437pt x 262.73157pt>
 File: fig/1.png Graphic file (type png)
  <use fig/1.png>
-Package pdftex.def Info: fig/1.png used on input line 140.
+Package pdftex.def Info: fig/1.png used on input line 136.
 (pdftex.def)             Requested size: 150.57372pt x 126.93555pt.
 
 <fig/2.png, id=337, 625.58719pt x 521.69907pt>
 File: fig/2.png Graphic file (type png)
  <use fig/2.png>
-Package pdftex.def Info: fig/2.png used on input line 140.
+Package pdftex.def Info: fig/2.png used on input line 136.
 (pdftex.def)             Requested size: 150.57372pt x 125.56854pt.
  [8
 
  <./fig/1.png> <./fig/2.png>] <fig/3.png, id=372, 616.55344pt x 521.69907pt>
 File: fig/3.png Graphic file (type png)
  <use fig/3.png>
-Package pdftex.def Info: fig/3.png used on input line 156.
+Package pdftex.def Info: fig/3.png used on input line 152.
 (pdftex.def)             Requested size: 212.03075pt x 179.40524pt.
 
 [9
@@ -981,7 +981,7 @@ Package pdftex.def Info: fig/3.png used on input line 156.
 File: fig/4.png Graphic file (type png)
 
 <use fig/4.png>
-Package pdftex.def Info: fig/4.png used on input line 171.
+Package pdftex.def Info: fig/4.png used on input line 167.
 (pdftex.def)             Requested size: 212.03075pt x 176.81644pt.
  [10
 
@@ -999,26 +999,26 @@ Missing character: There is no ™ in font phvr7t!
 <fig/5.png, id=546, 973.6375pt x 488.82625pt>
 File: fig/5.png Graphic file (type png)
  <use fig/5.png>
-Package pdftex.def Info: fig/5.png used on input line 242.
+Package pdftex.def Info: fig/5.png used on input line 235.
 (pdftex.def)             Requested size: 150.57372pt x 75.59572pt.
 
 <fig/6.png, id=547, 956.57375pt x 506.89375pt>
 File: fig/6.png Graphic file (type png)
  <use fig/6.png>
-Package pdftex.def Info: fig/6.png used on input line 242.
+Package pdftex.def Info: fig/6.png used on input line 235.
 (pdftex.def)             Requested size: 150.57372pt x 79.78978pt.
  [14
 
  <./fig/5.png> <./fig/6.png>]
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 248.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 241.
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <7> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 248.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 241.
  <fig/7.png, id=579, 1532.72626pt x 310.15875pt>
 File: fig/7.png Graphic file (type png)
 
 <use fig/7.png>
-Package pdftex.def Info: fig/7.png used on input line 248.
+Package pdftex.def Info: fig/7.png used on input line 241.
 (pdftex.def)             Requested size: 307.28987pt x 62.18208pt.
  [15
 
@@ -1034,7 +1034,7 @@ Package pdftex.def Info: fig/7.png used on input line 248.
 ] <fig/8.jpg, id=752, 501.875pt x 292.09125pt>
 File: fig/8.jpg Graphic file (type jpg)
  <use fig/8.jpg>
-Package pdftex.def Info: fig/8.jpg used on input line 275.
+Package pdftex.def Info: fig/8.jpg used on input line 265.
 (pdftex.def)             Requested size: 307.28987pt x 178.85284pt.
  [20
 
@@ -1048,14 +1048,14 @@ Package pdftex.def Info: fig/8.jpg used on input line 275.
 \tf@snm=\write8
 \openout8 = `copyset.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 276.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 276.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 266.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 266.
  (./copyset.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 276.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 276.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 266.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 266.
 Package rerunfilecheck Info: File `copyset.out' has not changed.
 (rerunfilecheck)             Checksum: ECE8CC74C466BE9A1BA17D31106587D2;496.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 276.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 266.
  ) 
 Here is how much of TeX's memory you used:
  16397 strings out of 493304
